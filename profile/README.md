@@ -8,7 +8,7 @@ code for ongoing research projects, as well as code for open source tools publis
 
 ## Use code in DIME repositories
 You may access and use the code you find in the repos on this GitHub account
-according to the license for each public repo. 
+according to the licenses for each public repo. 
 
 ## Access to DIME repositories
 If you are working on a DIME project and want access to a repository used for that project then follow
