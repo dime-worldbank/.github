@@ -18,3 +18,13 @@ then ask your DIME contact to request access using
 the instructions for external collaborators on your behalf.
 Note that there are many work-in-progress repos that are private 
 and not visible for anyone who has not yet been given access to that repo. 
+
+## DIME repos hosted elsewhere
+DIME repos hosted elsewhere includes: 
+[DIME Data Handbook](https://github.com/worldbank/dime-data-handbook),
+[DIME Reserach Standards](https://github.com/worldbank/dime-standards),
+[iefieldkit](https://github.com/worldbank/iefieldkit),
+[ietoolkit](https://github.com/worldbank/ietoolkit),
+[Stata-linter](https://github.com/worldbank/stata-linter),
+[Worldwide-Bureaucracy-Indicators](https://github.com/worldbank/Worldwide-Bureaucracy-Indicators)
+
