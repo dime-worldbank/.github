@@ -1,9 +1,18 @@
-# Welcome to DIME's GitHub Account
+# World Bank Department for Development Impact Evaluations (DIME)
 
-[DIME (Development Impact Evaluations)](https://www.worldbank.org/en/research/dime) is a department at the World Bank Group. 
+[DIME](https://www.worldbank.org/en/research/dime) is 
+a department for impact evaluations at the World Bank Group. 
+The repos on this account may include reproducibility code for published research, 
+code for ongoing research projects, as well as code for open source tools published by DIME.
 
-#### Access to DIME repositories
-Many repositories on this account are public and you may access them and use the code in them according to each repositories license.
-If you are working on a DIME project and want access to a repository,
-then see instructions [here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
-Note that the process is different if you are a member of DIME or if you are an external collaborator.
+## Use code in DIME repositories
+You may access and use the code you find in this GitHub account accord to the license for each public repo. 
+
+## Access to DIME repositories
+If you are working on a DIME project and want access to a repository used for that project then follow
+[these instructions](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
+If you are not a member of DIME, 
+then ask your DIME contact to request access using 
+the instructions for external collaborators on your behalf.
+Note that there are many work-in-progress repos that are private 
+and not visible for anyone who has not yet been given access to that repo. 
