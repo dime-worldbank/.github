@@ -7,7 +7,7 @@ The repos on this account may include reproducibility code for published researc
 code for ongoing research projects, as well as code for open source tools published by DIME.
 
 ## Use code in DIME repositories
-You may access and use the code you find in this GitHub account
+You may access and use the code you find in the repos on this GitHub account
 according to the license for each public repo. 
 
 ## Access to DIME repositories
