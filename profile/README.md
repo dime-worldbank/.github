@@ -21,7 +21,7 @@ and not visible for anyone who has not yet been given access to that repo.
 
 ### Create a new repositort on the DIME account
 If you are a member of the DIME GitHub account you can request for a new repo to be created.
-To do so follow [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
+To do so, follow [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
 
 ### DIME repos hosted elsewhere
 Some DIME repos are not hosted on the DIME account. 
