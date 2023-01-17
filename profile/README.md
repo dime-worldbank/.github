@@ -13,6 +13,9 @@ according to the licenses for each public repo.
 ### Request access to DIME repositories
 If you are working on a DIME project and want access to a repository used for that project then follow
 [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
+On that page you will also find instructions for how to get access to a specific repo
+after you have become a member of the DIME account.
+
 If you are not a member of DIME,
 then ask your DIME contact to request access using
 the instructions for external collaborators on your behalf.
