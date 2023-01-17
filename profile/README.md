@@ -25,7 +25,7 @@ To do so, follow [instructions linked to here](https://github.com/dime-worldbank
 
 ### DIME repos hosted elsewhere
 Some DIME repos are not hosted on the DIME account.
-DIME repos hosted elsewhere includes:
+DIME repos hosted on the [World Bank GitHub account](https://github.com/worldbank) includes:
 [DIME Data Handbook](https://github.com/worldbank/dime-data-handbook),
 [DIME Research Standards](https://github.com/worldbank/dime-standards),
 [iefieldkit](https://github.com/worldbank/iefieldkit),
