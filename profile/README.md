@@ -26,6 +26,15 @@ and not visible for anyone who has not yet been given access to that repo.
 If you are a member of the DIME GitHub account you can request for a new repo to be created.
 To do so, follow [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
 
+### GitHub account reports
+
+Links to 
+[repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports) 
+and 
+[team reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports). 
+Only accessible to members of DIME GitHub account. 
+Make sure you are logged in to GitHub using the account you added to the DIME GitHub account.
+
 ### DIME repos hosted elsewhere
 Some DIME repos are not hosted on the DIME account.
 DIME repos hosted on the [World Bank GitHub account](https://github.com/worldbank) includes:
