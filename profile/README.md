@@ -11,29 +11,25 @@ You may access and use the code you find in the repos on this GitHub account
 according to the licenses for each public repo.
 
 ### Request access to DIME repositories
-If you are working on a DIME project and want access to a repository used for that project then follow
-[instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
-On that page you will also find instructions for how to get access to a specific repo
-after you have become a member of the DIME account.
-
-If you are not a member of DIME,
-then ask your DIME contact to request access using
-the instructions for external collaborators on your behalf.
-Note that there are many work-in-progress repos that are private
-and not visible for anyone who has not yet been given access to that repo.
+If you work on a DIME project that use a repository hosted on this account,
+then you can find 
+[instructions here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md) 
+for how to request access.
+Note that the process is different depending on you being a member of DIME or not.
 
 ### Create a new repository on the DIME account
 If you are a member of the DIME GitHub account you can request for a new repo to be created.
 To do so, follow [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
 
-### GitHub account reports
+### Repo and team reports
 
 Links to 
 [repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports) 
 and 
-[team reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports). 
-Only accessible to members of DIME GitHub account. 
-Make sure you are logged in to GitHub using the account you added to the DIME GitHub account.
+[team reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports)
+where you can, for example, see who has access to a repo, what team is used to give access to a repo, 
+who is the maintainer that can add someone to a team, etc.
+These reports are only accessible to members of the DIME GitHub account who are logged in to GitHub.com when accessing these pages.
 
 ### DIME repos hosted elsewhere
 Some DIME repos are not hosted on the DIME account.
