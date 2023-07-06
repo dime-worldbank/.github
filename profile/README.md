@@ -1,5 +1,7 @@
 # Development Impact Evaluations (DIME) - World Bank Group
 
+### What is DIME?
+
 [DIME](https://www.worldbank.org/en/research/dime) is
 a department for impact evaluations at
 the [World Bank Group](https://www.worldbank.org).
@@ -11,25 +13,25 @@ You may access and use the code you find in the repos on this GitHub account
 according to the licenses for each public repo.
 
 ### Request access to DIME repositories
-If you work on a DIME project that use a repository hosted on this account,
+If you work on a DIME project that uses a repository hosted on this account,
 then you can find 
 [instructions here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md) 
 for how to request access.
-Note that the process is different depending on you being a member of DIME or not.
+Note that the process is different depending if you are a member of DIME or not.
 
 ### Create a new repository on the DIME account
 If you are a member of the DIME GitHub account you can request for a new repo to be created.
 To do so, follow [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
 
 ### Repo and team reports
-
-Links to 
+Once per week, 
 [repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports) 
 and 
 [team reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports)
-where you can, for example, see who has access to a repo, what team is used to give access to a repo, 
-who is the maintainer that can add someone to a team, etc.
-These reports are only accessible to members of the DIME GitHub account who are logged in to GitHub.com when accessing these pages.
+are generated.
+These reports includes information such as who has access to each repo, and what repos each team is used for.
+You are only able to access these reports if you are logged in to GitHub.com using an account that
+is added as a member to the `dime-worldbank` account.
 
 ### DIME repos hosted elsewhere
 Some DIME repos are not hosted on the DIME account.
