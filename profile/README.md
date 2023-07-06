@@ -1,6 +1,6 @@
 # Development Impact Evaluations (DIME) - World Bank Group
 
-### What is DIME?
+#### What is DIME?
 
 [DIME](https://www.worldbank.org/en/research/dime) is
 a department for impact evaluations at
@@ -8,22 +8,21 @@ the [World Bank Group](https://www.worldbank.org).
 The repos on this account may include reproducibility code for published research,
 code for ongoing research projects, as well as code for open source tools published by DIME.
 
-### Use code in DIME repositories
+#### Use code in DIME repositories
 You may access and use the code you find in the repos on this GitHub account
 according to the licenses for each public repo.
 
-### Request access to DIME repositories
+#### Request access to DIME repositories
 If you work on a DIME project that uses a repository hosted on this account,
 then you can find 
 [instructions here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md) 
 for how to request access.
 Note that the process is different depending if you are a member of DIME or not.
 
-### Create a new repository on the DIME account
-If you are a member of the DIME GitHub account you can request for a new repo to be created.
-To do so, follow [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
+#### Create a new repository on the DIME account
+If you are a member of the DIME GitHub account, then you can request creation of new repos by follwing [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
 
-### Repo and team reports
+#### Repo and team reports
 Once per week, 
 [repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports) 
 and 
@@ -33,7 +32,7 @@ These reports includes information such as who has access to each repo, and what
 You are only able to access these reports if you are logged in to GitHub.com using an account that
 is added as a member to the `dime-worldbank` account.
 
-### DIME repos hosted elsewhere
+#### DIME repos hosted elsewhere
 Some DIME repos are not hosted on the DIME account.
 DIME repos hosted on the [World Bank GitHub account](https://github.com/worldbank) includes:
 [DIME Data Handbook](https://github.com/worldbank/dime-data-handbook),
