@@ -27,6 +27,7 @@ are generated.
 These reports includes information such as who has access to each repo, and what repos each team is used for.
 You are only able to access these reports if you are logged in to GitHub.com using an account that
 is added as a member to the `dime-worldbank` account.
+(See [here](https://github.com/dime-worldbank/dime-account-admin/blob/main/resources/dime-only-resources.md) if you have issues accessing these links.)
 
 * _**DIME repos hosted elsewhere**_ - Some DIME repos are not hosted on the DIME account.
 DIME repos hosted on the [World Bank GitHub account](https://github.com/worldbank) includes:
