@@ -1,7 +1,7 @@
-# Development Impact Evaluations (DIME) - World Bank Group
+# Development Impact (DIME) - World Bank Group
 
-* _**What is DIME?**_ - [DIME](https://www.worldbank.org/en/research/dime) is
-a department for impact evaluations at
+* _**What is DIME?**_ - [DIME](https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation) is
+the development impact department at
 the [World Bank Group](https://www.worldbank.org).
 The repos on this account may include reproducibility code for published research,
 code for ongoing research projects, as well as code for open source tools published by DIME.
