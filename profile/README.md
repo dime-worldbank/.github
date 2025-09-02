@@ -8,7 +8,7 @@
 
 * _**Request access to repositories**_ - If you work in the Development Impact Group or on a project repository hosted on this account, you can find [instructions here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md) for how to request access. Note that the process is different depending on whether you have an active contract with the Development Impact Group or are an external collaborator.
 
-* _**Create a new repository on this account**_ - If you are a member of this GitHub account, you can request creation of new repositories by following the [instructions here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
+* _**Create a new repository on this account**_ - If you are a member of this GitHub organization account, you can request the creation of new repositories by following the [instructions here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md). Use these instructions as well if you want to transfer an existing repository to this account.
 
 * _**Repo and team reports**_ -
 Once per week, [repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports) and [team reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports) are generated. These reports include information such as who has access to each repository and what repositories each team uses. You are only able to access these reports if you are logged in to GitHub.com using an account that is a member of the `dime-worldbank` account. (See [here](https://github.com/dime-worldbank/dime-account-admin/blob/main/resources/dime-only-resources.md) if you have issues accessing these links.)
