@@ -1,6 +1,6 @@
 # Development Impact Group - World Bank
 
-* _**Who are the Development Impact Group?**_ - The [Development Impact Group](https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation) (formerly known as DIME) is a department within the [Development Economics Vice Presidency](https://www.worldbank.org/en/about/unit/unit-dec/about) at the [World Bank](https://www.worldbank.org).
+* _**What is the Development Impact Group?**_ - The [Development Impact Group](https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation) (formerly known as DIME) is a department within the [Development Economics Vice Presidency](https://www.worldbank.org/en/about/unit/unit-dec/about) at the [World Bank](https://www.worldbank.org).
 
 * _**Content of this GitHub organization account**_ - Repositories on this account may include reproducibility code for published research, code for ongoing research projects, and code for open source tools published by the Development Impact Group. More reproducibility packages from the Development Impact Group and other teams at the World Bank can be found at the World Bank's [Reproducible Research Repository](https://reproducibility.worldbank.org/index.php/home).
 
