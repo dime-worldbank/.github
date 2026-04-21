@@ -1,0 +1,132 @@
+name: Open Source Catalog Checklist
+description: Checklist to complete before publishing a repository to the WBG Open Source Code Catalog
+title: "[WB Open Source Catalog Checklist]: <repo name>"
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        ## World Bank Group Open Source Code Catalog
+        Complete all required items below before your repo may be published in the Catalog.
+
+  # ── 1. README ──────────────────────────────────────────────────────────────
+  - type: checkboxes
+    id: readme
+    attributes:
+      label: "1. README"
+      description: "The README.md should inform anyone about the first steps to use, learn, and contribute to the project."
+      options:
+        - label: Project name is clearly stated
+          required: true
+        - label: Clear description of purpose and audience (2–3 sentences)
+          required: true
+        - label: Screenshot of software or code output (if applicable)
+          required: false
+        - label: "Getting Started section includes: prerequisites, installation guidance, and usage example"
+          required: true
+        - label: Thorough documentation either in the README or via a separate link (e.g. GitHub Pages)
+          required: true
+        - label: "Contact information included (World Bank staff name(s) and @worldbank.org email, or a mailbox/distribution list)"
+          required: true
+        - label: License section included in README (see item 3)
+          required: true
+
+  # ── 2. Repository Details ───────────────────────────────────────────────────
+  - type: checkboxes
+    id: repo-details
+    attributes:
+      label: "2. Repository Details"
+      description: "Metadata for catalog entries and search functionality."
+      options:
+        - label: Clear repository description added
+          required: true
+        - label: Website / documentation link added (see item 5)
+          required: true
+        - label: Relevant topics added
+          required: true
+
+  # ── 3. License ──────────────────────────────────────────────────────────────
+  - type: checkboxes
+    id: license
+    attributes:
+      label: "3. License"
+      description: "Use the [MIT License + World Bank IGO Rider](https://github.com/worldbank/wb-base-template)."
+      options:
+        - label: MIT License with World Bank IGO Rider is included
+          required: true
+
+  # ── 5. Documentation ────────────────────────────────────────────────────────
+  - type: checkboxes
+    id: documentation
+    attributes:
+      label: "5. Documentation"
+      description: "Web-based documentation accessible to non-technical audiences."
+      options:
+        - label: "Web-based documentation exists (e.g. GitHub Pages, rendered web book, or external site)"
+          required: true
+        - label: Documentation link is included in the README project description
+          required: true
+
+  # ── 6. Citation File ─────────────────────────────────────────────────────────
+  - type: checkboxes
+    id: citation
+    attributes:
+      label: "6. Citation File (as applicable)"
+      description: "Use the [CITATION.cff template](https://github.com/worldbank/template/blob/main/CITATION.cff)."
+      options:
+        - label: CITATION.cff file is included (if applicable)
+          required: false
+
+  # ── 7. Code of Conduct ───────────────────────────────────────────────────────
+  - type: checkboxes
+    id: code-of-conduct
+    attributes:
+      label: "7. Code of Conduct"
+      description: "Use the [WB Code of Conduct template](https://github.com/worldbank/.github/blob/main/CODE_OF_CONDUCT.md)."
+      options:
+        - label: Code of Conduct is included or linked
+          required: true
+
+  # ── 8. Contributing Guide ────────────────────────────────────────────────────
+  - type: checkboxes
+    id: contributing
+    attributes:
+      label: "8. Contributing Guide"
+      description: "Use the [WB Contributing Guide template](https://github.com/worldbank/.github/blob/main/CONTRIBUTING.md)."
+      options:
+        - label: Contributing guide is included or linked
+          required: true
+
+  # ── 9. Exclusions ────────────────────────────────────────────────────────────
+  - type: checkboxes
+    id: exclusions
+    attributes:
+      label: "9. Exclusions"
+      description: "Confirm the repository does not contain any of the following."
+      options:
+        - label: "No original data (data stored elsewhere: World Bank Data Catalog, SharePoint, etc.)"
+          required: true
+        - label: No passwords, API keys, or secrets (a sample .env file is acceptable)
+          required: true
+        - label: No hard-coded variables, parameters, or URLs (avoided where possible)
+          required: true
+
+  # ── 10. Bibliography ─────────────────────────────────────────────────────────
+  - type: checkboxes
+    id: bibliography
+    attributes:
+      label: "10. Bibliography (optional)"
+      description: "A bibliography in BibTeX format may be included. See [example file](https://github.com/worldbank/template/blob/main/docs/bibliography.bib)."
+      options:
+        - label: Bibliography in BibTeX format included (optional)
+          required: false
+
+  # ── Additional Notes ─────────────────────────────────────────────────────────
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Any additional context or exceptions to flag for the reviewer.
+      placeholder: Add any notes here...
+    validations:
+      required: false
